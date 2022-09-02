@@ -3,7 +3,7 @@
 ### Profesor: Pablo Estevez V.
 ### Guía: Bastian Gamboa Labbé
 
-##Descripción:
+## Descripción:
 
 Los mecanismos de atención son modelos diseñados originalmente para el procesamiento tipo
 secuencia-secuencia, los cuales buscan la construcción de vectores de contexto basada en la
