@@ -1,7 +1,7 @@
 # Proyecto T6: Desarrollo de Codificadores de Posición en Transformers
 
 ### Profesor: Pablo Estevez V.
-###Guía: Bastian Gamboa Labbé
+### Guía: Bastian Gamboa Labbé
 
 ##Descripción:
 
