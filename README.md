@@ -47,4 +47,20 @@ mismos datos sintéticos se validará si los codificadores empleados presentan p
 relevantes. ¿Existe una codificación que sea más robusta al ruido ? (Las formas de testear esta
 propiedad se pueden realizar en las curvas sintéticas añadiendo ruido en amplitud y tiempo).
 Finalmente se deberá emplear dichas modulaciones en la clasificación de Supernovas
-provenientes del Zwicky Transient Facilit
+provenientes del Zwicky Transient Facility (ZTF).
+
+
+
+### Bibliografía:
+
+
+[1] Pimentel, Óscar, et al. Deep Attention-Based Supernovae Classification of Multi-Band
+Light-Curves. 7 Feb. 2022. arXiv.org, http://arxiv.org/abs/2201.08482.
+[2] Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, L., &
+Polosukhin, I. (2017). Attention Is All You Need. http://arxiv.org/abs/1706.03762
+8
+[3] Sánchez-Sáez, P., Reyes, I., Valenzuela, C., Förster, F., Eyheramendy, S., Elorrieta, F., ... &
+Pignata, G. (2020). Alert Classification for the ALeRCE Broker System: The Light Curve
+Classifier. arXiv preprint arXiv:2008.03311.
+[4] Bahdanau, D., Cho, K., & Bengio, Y. (2014). Neural Machine Translation by Jointly Learning
+to Align and Translate. https://arxiv.org/abs/1409.0473
